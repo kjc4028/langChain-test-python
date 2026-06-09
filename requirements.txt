@@ -1,0 +1,7 @@
+flask
+langchain
+#langchain-openai
+langchain-huggingface
+huggingface_hub
+python-dotenv
+
