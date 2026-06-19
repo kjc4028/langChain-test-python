@@ -4,4 +4,6 @@ langchain
 langchain-huggingface
 huggingface_hub
 python-dotenv
-
+Pillow #이미지처리
+pytesseract #OCR처리
+opencv-python #이미지 테이블 마스킹 처리
